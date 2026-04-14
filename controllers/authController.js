@@ -25,9 +25,8 @@ const setCookies = (res, accessToken, refreshToken) => {
   const isProduction = process.env.NODE_ENV === 'production';
   const cookieOpts = {
     httpOnly: true,
-    secure: isProduction,
-    sameSite: isProduction ? 'none' : 'lax',
     secure: true,
+    sameSite: 'none',
   };
   res.cookie('access_token',  accessToken,  { ...cookieOpts, maxAge: 7  * 24 * 60 * 60 * 1000 });
   res.cookie('refresh_token', refreshToken, { ...cookieOpts, maxAge: 30 * 24 * 60 * 60 * 1000 });
