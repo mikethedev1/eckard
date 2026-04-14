@@ -1,0 +1,290 @@
+[2026-04-11 21:04:03] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-11 21:04:03] INFO: 🌐 Environment: development
+[2026-04-11 21:04:03] INFO: 📡 CORS origin: http://localhost:3000
+[2026-04-11 21:04:03] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-11 21:04:03] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-11 21:04:46] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-11 21:04:46] INFO: 🌐 Environment: development
+[2026-04-11 21:04:46] INFO: 📡 CORS origin: http://localhost:3000
+[2026-04-11 21:04:46] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-11 21:04:46] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-11 21:05:12] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-11 21:05:13] INFO: 🌐 Environment: development
+[2026-04-11 21:05:13] INFO: 📡 CORS origin: http://localhost:3000
+[2026-04-11 21:05:13] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-11 21:05:13] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 04:46:20] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 04:46:20] INFO: 🌐 Environment: development
+[2026-04-12 04:46:20] INFO: 📡 CORS origin: http://localhost:3000
+[2026-04-12 04:46:20] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 04:46:20] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 04:46:21] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 04:46:21] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 04:52:41] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 04:52:41] INFO: 🌐 Environment: development
+[2026-04-12 04:52:41] INFO: 📡 CORS origin: http://localhost:5174
+[2026-04-12 04:52:41] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 04:52:41] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 04:52:41] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 04:52:41] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 05:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 05:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 06:14:30] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 06:14:30] INFO: 🌐 Environment: development
+[2026-04-12 06:14:30] INFO: 📡 CORS origin: http://localhost:5174
+[2026-04-12 06:14:30] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 06:14:30] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 06:14:30] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 06:14:31] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 06:18:19] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 06:18:19] INFO: 🌐 Environment: development
+[2026-04-12 06:18:19] INFO: 📡 CORS origin: http://localhost:5174
+[2026-04-12 06:18:19] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 06:18:19] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 06:18:19] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 06:18:20] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 06:18:32] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 06:18:32] INFO: 🌐 Environment: development
+[2026-04-12 06:18:32] INFO: 📡 CORS origin: http://localhost:5174
+[2026-04-12 06:18:32] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 06:18:32] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 06:18:33] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 06:18:33] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 06:24:38] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 06:24:38] INFO: 🌐 Environment: development
+[2026-04-12 06:24:38] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 06:24:38] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 06:24:38] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 06:24:39] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 06:24:39] INFO: 🌐 Environment: development
+[2026-04-12 06:24:39] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 06:24:39] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 06:24:39] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 06:24:39] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 06:24:40] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 06:24:52] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 06:24:52] INFO: 🌐 Environment: development
+[2026-04-12 06:24:52] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 06:24:52] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 06:24:52] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 06:24:53] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 06:24:53] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 06:29:12] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 06:29:12] INFO: 🌐 Environment: development
+[2026-04-12 06:29:12] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 06:29:12] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 06:29:12] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 06:29:13] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 06:29:13] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 06:51:00] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 06:51:00] INFO: 🌐 Environment: development
+[2026-04-12 06:51:00] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 06:51:00] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 06:51:00] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 06:51:01] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 06:51:01] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 06:57:37] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 06:57:37] INFO: 🌐 Environment: development
+[2026-04-12 06:57:37] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 06:57:37] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 06:57:37] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 06:57:37] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 06:57:38] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 07:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 07:00:01] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 07:30:50] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 07:30:50] INFO: 🌐 Environment: development
+[2026-04-12 07:30:50] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 07:30:50] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 07:30:50] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 07:30:50] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 07:30:50] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 07:30:52] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 07:30:52] INFO: 🌐 Environment: development
+[2026-04-12 07:30:52] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 07:30:52] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 07:30:52] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 07:30:52] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 07:30:53] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 07:37:38] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 07:37:38] INFO: 🌐 Environment: development
+[2026-04-12 07:37:38] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 07:37:38] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 07:37:38] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 07:37:39] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 07:37:39] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 07:50:58] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 07:50:58] INFO: 🌐 Environment: development
+[2026-04-12 07:50:58] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 07:50:58] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 07:50:58] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 07:50:59] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 07:50:59] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 07:51:14] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 07:51:14] INFO: 🌐 Environment: development
+[2026-04-12 07:51:14] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 07:51:14] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 07:51:14] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 07:51:14] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 07:51:14] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 07:57:46] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 07:57:46] INFO: 🌐 Environment: development
+[2026-04-12 07:57:46] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 07:57:46] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 07:57:46] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 07:57:46] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 07:57:46] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 07:58:33] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 07:58:33] INFO: 🌐 Environment: development
+[2026-04-12 07:58:33] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 07:58:33] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 07:58:33] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 07:58:33] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 07:58:34] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 08:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 08:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 08:05:29] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 08:05:29] INFO: 🌐 Environment: development
+[2026-04-12 08:05:29] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 08:05:29] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 08:05:29] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 08:05:29] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 08:05:29] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 08:15:44] ERROR: Error: Incorrect decimal value: 'NaN' for column 'roi_rate' at row 1
+    at Query.onResult (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\promise\make_done_cb.js:6:24)
+    at Query.execute (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\commands\command.js:36:14)
+    at PoolConnection.handlePacket (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\base\connection.js:552:34)
+    at PacketParser.onPacket (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\base\connection.js:102:12)
+    at PacketParser.executeStart (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\base\connection.js:109:25)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+[2026-04-12 08:15:56] ERROR: Error: Incorrect decimal value: 'NaN' for column 'roi_rate' at row 1
+    at Query.onResult (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\promise\make_done_cb.js:6:24)
+    at Query.execute (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\commands\command.js:36:14)
+    at PoolConnection.handlePacket (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\base\connection.js:552:34)
+    at PacketParser.onPacket (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\base\connection.js:102:12)
+    at PacketParser.executeStart (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\base\connection.js:109:25)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+[2026-04-12 08:16:18] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 08:16:18] INFO: 🌐 Environment: development
+[2026-04-12 08:16:18] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 08:16:18] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 08:16:18] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 08:16:19] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 08:16:19] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 08:16:30] ERROR: Error: Incorrect decimal value: 'NaN' for column 'roi_rate' at row 1
+    at Query.onResult (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\promise\make_done_cb.js:6:24)
+    at Query.execute (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\commands\command.js:36:14)
+    at PoolConnection.handlePacket (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\base\connection.js:552:34)
+    at PacketParser.onPacket (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\base\connection.js:102:12)
+    at PacketParser.executeStart (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\user\Eckard\eckard-backend\node_modules\mysql2\lib\base\connection.js:109:25)
+    at Socket.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+[2026-04-12 08:25:10] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-12 08:25:10] INFO: 🌐 Environment: development
+[2026-04-12 08:25:10] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-12 08:25:10] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-12 08:25:10] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-12 08:25:11] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 08:25:11] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 09:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 09:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 10:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 10:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 11:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 11:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 14:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 14:00:01] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 15:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 15:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 17:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 17:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 18:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 18:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 19:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 19:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 20:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 20:00:01] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 21:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 21:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 22:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 22:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-12 23:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-12 23:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 00:00:01] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 00:00:01] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 01:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 01:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 08:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 08:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 09:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 09:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 10:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 10:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 11:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 11:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 12:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 12:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 13:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 13:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 14:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 14:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 15:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 15:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 16:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 16:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 17:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 17:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 20:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 20:00:01] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 21:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 21:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 22:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 22:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-13 23:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-13 23:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-14 00:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-14 00:00:01] INFO: ⏰ Cron: No matured investments found.
+[2026-04-14 11:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-14 11:00:01] INFO: ⏰ Cron: No matured investments found.
+[2026-04-14 12:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-14 12:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-14 13:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-14 13:00:01] INFO: ⏰ Cron: No matured investments found.
+[2026-04-14 14:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-14 14:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-14 15:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-14 15:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-14 16:00:00] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-14 16:00:00] INFO: ⏰ Cron: No matured investments found.
+[2026-04-14 16:00:35] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-14 16:00:35] INFO: 🌐 Environment: development
+[2026-04-14 16:00:35] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-14 16:00:35] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-14 16:00:35] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-14 16:00:36] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-14 16:00:36] INFO: ⏰ Cron: No matured investments found.
+[2026-04-14 16:01:04] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-14 16:01:04] INFO: 🌐 Environment: development
+[2026-04-14 16:01:04] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-14 16:01:04] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-14 16:01:04] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-14 16:01:05] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-14 16:01:05] INFO: ⏰ Cron: No matured investments found.
+[2026-04-14 16:01:06] INFO: 🚀 Eckard Oil Capital API running on port 5000
+[2026-04-14 16:01:06] INFO: 🌐 Environment: development
+[2026-04-14 16:01:06] INFO: 📡 CORS origin: http://localhost:5173
+[2026-04-14 16:01:06] INFO: ⏰ Investment cron scheduled: 0 * * * *
+[2026-04-14 16:01:06] INFO: 🧹 Token cleanup cron scheduled: daily at midnight
+[2026-04-14 16:01:06] INFO: ⏰ Cron: Checking for matured investments...
+[2026-04-14 16:01:07] INFO: ⏰ Cron: No matured investments found.
